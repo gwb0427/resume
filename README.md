@@ -30,6 +30,7 @@
 - 手机：13520443610
 - Email：jonnyliu0525@qq.com
 - 微信号： ![微信二维码](wechat-code.jpg)
+
 ---
 
 # 个人信息
