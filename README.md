@@ -30,7 +30,7 @@
 
 - Email：jonnyliu0525@qq.com
 
-- 微信号： !["_M0525M_"](wechat-code.jpg)
+- 微信号： ![_M0525M_](wechat-code.jpg)
 
 ---
 
