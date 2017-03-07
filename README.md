@@ -85,7 +85,7 @@
 - 带领三人小组开发挂号平台、114语音挂号系统API的开发。
 - 封装基础工具代码，使其在整个项目中得以应用。
 - 负责华为语音呼叫系统和114语音挂号系统的对接。
-- 开发医院每日/月预约量、约成量、约成方式等统计报表。
+- 开发医院每日/月预约量、约成量、约成方式等各类统计报表。
 - 前台静态页面的动态化、页面数据校验的js代码开发。
 - 进行线上的bug重现及修复工作。
 - 编写爬虫爬取疾病、科室等信息。
@@ -106,138 +106,27 @@
 
 - 负责器械包申请、审核、器械包教学视频上传/下载/在线观看等功能模块的设计开发。
 - 根据业务需求开发器械包是永久记录统计、满意度调查等报表报表。
-- 
+- 使用ExtJs开发前台页面，编写js业务代码。
+- 代码重构及bug修复。
 
 # 技能清单
 
-以下均为我熟练使用的技能
+- 前端
+    - 熟练使用前端技术（HTML/JSP + CSS + JavaScript/JQuery）进行web开发。
+- 后端
+    - 了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
+    - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
+    - 熟悉python，刷过codewars、掌握使用python进行爬虫编写和数据解析。
+    - 了解zookeeper、RPC框架原理，熟悉HTTP协议。
+    - 熟悉linux操作系统，掌握linux常用命令，能在linux上搭建开发环境。
+- 数据库
+    - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
+    - 熟练使用redis/mongoDB等缓存。
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-
-## 参考技能关键字
-
-本技能关键字列表是从最近招聘Java的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- java(730)
-- spring(305)
-- web(260)
-- mysql(250)
-- oracle(207)
-- linux(198)
-- j2ee(182)
-- javascript(177)
-- sql(176)
-- hibernate(169)
-- html(139)
-- tomcat(132)
-- struts(128)
-- jquery(116)
-- jsp(106)
-- ajax(96)
-- css(94)
-- ibatis(84)
-- mvc(77)
-- servlet(71)
-- xml(70)
-- js(62)
-- eclipse(51)
-- mybatis(51)
-- jboss(47)
-- struts2(47)
-- weblogic(46)
-- redis(46)
-- apache(45)
-- http(44)
-- shell(39)
-- python(38)
-- hadoop(37)
-- nosql(35)
-- ssh(35)
-- sqlserver(33)
-- mongodb(33)
-- svn(32)
-- uml(32)
-- json(27)
-- unix(27)
-- maven(27)
-- nginx(26)
-- webservice(25)
-- jdbc(24)
-- memcached(23)
-- tcp(22)
-- resin(22)
-- jvm(21)
-- socket(21)
-- db2(19)
-- springmvc(19)
-- websphere(16)
-- soa(16)
-- mina(14)
-- android(14)
-- extjs(13)
-- erp(12)
-- memcache(12)
-- api(11)
-- jetty(11)
-- myeclipse(11)
-- ext(10)
-- git(10)
-- jpa(10)
-- svm(9)
-- php(9)
-- jms(9)
-- ruby(9)
-- lucene(8)
-- html5(8)
-- postgresql(8)
-- crm(7)
-- javaee(7)
-- sybase(7)
-- freemarker(6)
-- cache(6)
-- jsf(6)
-- j2se(6)
-- jbpm(6)
-- cvs(6)
-- junit(6)
-- visio(6)
-- netty(6)
-- hbase(6)
-- nio(6)
-- powerdesigner(6)
-- oo(6)
-- aop(6)
-- workflow(5)
-- restful(5)
-- ios(5)
-- ant(5)
-- mssql(5)
-- orm(5)
-- rose(5)
-- solr(5)
-- webwork(5)
-- zookeeper(4)
-- soap(4)
-- o2o(4)
-- wap(4)
-- cxf(4)
-- thrift(4)
-- xmpp(3)
-- p2p(3)
-- javabean(3)
-- jee(3)
-- hdfs(3)
-- dom(3)
-- hibernate3(3)
-
----
+- 开放平台：微信公众号开发
+- 版本管理、自动化部署工具：Git/SVN/Maven
+- 单元测试：JUnit
+- IDE：IntelliJ IDEA/Eclipse/MyEclipse
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
