@@ -1,33 +1,20 @@
 # 联系方式
 
 - 手机：135-2044-3610
-
 - Email：jonnyliu0525@qq.com
-
 - 微信号： ![_M0525M_](wechat-code.jpg)
-
 ---
-
 # 个人信息
 
  - 刘杰/男/1989 
- 
  - 本科/海南大学三亚学院/软件工程专业 
- 
  - 工作年限：5年 
- 
  - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
- 
  - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
-
  - 期望职位：Java后台开发工程师
- 
  - 期望薪资：税前月薪18k~20k，特别喜欢的公司除外
- 
  - 期望城市：北京
-
 ---
-
 # 开源项目
 
 ### 项目名称 
@@ -108,7 +95,7 @@
 - 根据业务需求开发器械包是永久记录统计、满意度调查等报表报表。
 - 使用ExtJs开发前台页面，编写js业务代码。
 - 代码重构及bug修复。
-
+---
 # 技能清单
 
 - 前端
