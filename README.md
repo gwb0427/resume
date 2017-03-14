@@ -13,7 +13,7 @@
  - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
  - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
  - 期望职位：Java后台开发工程师
- - 期望薪资：税前月薪18k~20k，特别喜欢的公司除外
+ - 期望薪资：税前18k~20k，特别喜欢的公司除外
  - 期望城市：北京
  
 ---
