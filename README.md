@@ -106,9 +106,9 @@
 - 后端
     - 了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
     - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
-    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、掌握使用python进行爬虫编写和数据解析。
+    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
     - 熟悉HTTP协议;了解RPC框架原理
-    - 熟悉linux操作系统，掌握linux常用命令，能在linux上搭建开发环境。
+    - 熟悉linux操作系统，熟练掌握linux shell，能在linux上搭建开发环境。
 - 数据库
     - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
     - 熟练使用redis/memcached等缓存。
