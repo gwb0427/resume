@@ -19,6 +19,7 @@
  ---
 ## 技能清单
 
+- 英语：能熟练阅读英文文档，能适应英文环境
 - 前端
     - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + JavaScript/JQuery）进行web开发。
 - 后端
@@ -33,7 +34,6 @@
 
 - 开放平台：微信公众号开发
 - 版本管理、自动化部署工具：Git/SVN/Maven
-- 英语：能熟练阅读英文文档，能适应英文环境
 - IDE：IntelliJ IDEA/Eclipse/MyEclipse
  
 ---
