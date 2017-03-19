@@ -13,8 +13,28 @@
  - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
  - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
  - 期望职位：Java后台开发工程师
- - 期望薪资：税前18k~20k，特别喜欢的公司除外
+ - 期望薪资：税前18k~20k
  - 期望城市：北京
+
+ ---
+## 技能清单
+
+- 前端
+    - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + JavaScript/JQuery）进行web开发。
+- 后端
+    - 了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
+    - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
+    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
+    - 熟悉HTTP协议;了解RPC框架原理
+    - 熟悉linux操作系统，熟练掌握linux shell，能在linux上搭建开发环境。
+- 数据库
+    - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
+    - 熟练使用redis/memcached等缓存。
+
+- 开放平台：微信公众号开发
+- 版本管理、自动化部署工具：Git/SVN/Maven
+- 英语：能熟练阅读英文文档，能适应英文环境
+- IDE：IntelliJ IDEA/Eclipse/MyEclipse
  
 ---
 ## 开源项目
@@ -98,25 +118,4 @@
 - 使用ExtJs开发前台页面，编写js业务代码。
 - 代码重构及bug修复。
 
----
-## 技能清单
 
-- 前端
-    - 熟练使用前端技术（HTML/JSP + CSS + JavaScript/JQuery）进行web开发。
-- 后端
-    - 了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
-    - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
-    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
-    - 熟悉HTTP协议;了解RPC框架原理
-    - 熟悉linux操作系统，熟练掌握linux shell，能在linux上搭建开发环境。
-- 数据库
-    - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
-    - 熟练使用redis/memcached等缓存。
-
-- 开放平台：微信公众号开发
-- 版本管理、自动化部署工具：Git/SVN/Maven
-- 单元测试：JUnit
-- IDE：IntelliJ IDEA/Eclipse/MyEclipse
-
-## 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
