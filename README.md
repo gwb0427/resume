@@ -21,9 +21,10 @@
 
 - 英语：能熟练阅读英文文档，能适应英文环境
 - 前端
-    - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + JavaScript/JQuery）进行web开发。
+    - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发。
+    - 能写常用的js代码，能套页面。
 - 后端
-    - 了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
+    - 熟悉分布式项目开发，了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
     - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
     - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
     - 熟悉HTTP协议;了解RPC框架原理
@@ -33,7 +34,8 @@
     - 熟练使用redis/memcached等缓存。
 
 - 开放平台：微信公众号开发
-- 版本管理、自动化部署工具：Git/SVN/Maven
+- 版本管理、自动化部署工具：Git/SVN/Maven/jenkins
+- 项目管理工具：Jira/Tower
 - IDE：IntelliJ IDEA/Eclipse/MyEclipse
  
 ---
