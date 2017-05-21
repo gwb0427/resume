@@ -13,6 +13,7 @@
  - 在线简历：[https://gwb0427.github.io/resume/](https://gwb0427.github.io/resume/)
  - 期望职位：Java后台开发工程师
  - 期望薪资：6k~8k
+ - 期望城市：北京
 
 ---
 ## 技能清单
