@@ -1,80 +1,62 @@
 ## 联系方式
 
-- 手机：135-2044-3610
-- Email：jonnyliu0525@qq.com
-- 微信号： \_M0525M_
+- 手机：15764506298
+- Email：guanwb0427@qq.com
+- 微信号：Breathless100
 
 ---
 ## 个人信息
 
- - 刘杰/男/1989 
- - 本科/海南大学三亚学院/软件工程专业 
- - 工作年限：5年 
- - GitHub：[https://github.com/151376liujie](https://github.com/151376liujie)
- - 在线简历：[https://151376liujie.github.io/resume/](https://151376liujie.github.io/resume/)
+ - 关文博/女/1994 
+ - 本科/哈尔滨学院/软件工程专业 
+ - 工作年限：1年 
+ - 在线简历：[https://gwb0427.github.io/resume/](https://gwb0427.github.io/resume/)
  - 期望职位：Java后台开发工程师
- - 期望薪资：税前18k~20k
+ - 期望薪资：6k~8k
  - 期望城市：北京
 
  ---
 ## 技能清单
 
-- 英语：能熟练阅读英文文档，能适应英文环境
+- 英语：CET4，能顺利阅读英文文档。
 - 前端
     - 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发。
-    - 能写常用的js代码，能套页面。
+    - 能写常用的js代码，熟悉Ajax，熟悉常用的前端插件（jQuery Form/jQuery validate/ECharts）。
 - 后端
-    - 熟悉分布式项目开发，了解常用设计模式和算法，有一定的代码封装和架构能力，经常对自己的代码进行重构，喜欢干净简单的代码。
-    - 熟练使用Spring + SpringMVC + Mybatis/SpringJDBC等开源框架,知晓其原理。
-    - 熟悉python，刷过codewars，能使用python快速验证自己的想法、熟练掌握使用python进行爬虫编写和数据解析。
-    - 熟悉HTTP协议;了解RPC框架原理
-    - 熟悉linux操作系统，熟练掌握linux shell，能在linux上搭建开发环境。
+    - 熟练掌握Java语言基础知识，对集合，I/O，反射有一定了解，理解面向对象设计原思想。
+    - 熟悉常用数据结构，了解常用的设计模式。
+    -具有良好的代码编写规范。
+    - 熟练使用Spring + SpringMVC + Mybatis/等开源框架,知晓其原理。
+    - 理解Maven项目模块化思想，具有实际项目模块拆分经验。
+    - 熟悉微信公众平台开发流程，有相关实践经验。
+    - 熟悉HTTP协议，熟悉常用的XML，JSON等数据格式的解析，并具有实际项目经验。
+    - 熟悉lniux系统常用命令。
 - 数据库
-    - 熟练编写常用sql语句，有一定的MySQL数据库表设计和优化经验
-    - 熟练使用redis/memcached等缓存。
-
+    - 熟练编写常用sql语句，有一定的MySQL数据库表设计经验。
 - 开放平台：微信公众号开发
-- 版本管理、自动化部署工具：Git/SVN/Maven/jenkins
-- 项目管理工具：Jira/Tower
-- IDE：IntelliJ IDEA/Eclipse/MyEclipse
+- 版本管理、自动化部署工具：SVN/Git/Maven
+- 项目管理工具：禅道
+- IDE：Eclipse/MyEclipse/IntelliJ IDEA
  
 ---
-## 开源项目
-
-### 项目名称 
-[微信消息处理框架](https://github.com/151376liujie/wechat-core)( Star数量：38，Fork数量：26 )
-
-### 项目简介 
-基于java实现的轻量级微信消息处理框架，使用**注解**来标识不同消息类型的消息处理类，避免在代码中大量使用if else if来判断消息类型，更解耦！，使用者也不需要再去关注消息发送和接收的具体细节，直接关注业务本身即可。
-
-### 主要功能 
-- 各类型消息的封装 
-- 各类型消息处理器的注解化开发 
-- 各类型消息自定义过滤 
-- 内置各类型消息接收和发送的详细日志 
-- access_token接口的封装 
-- 微信用户接口的封装 
-
---- 
 ## 工作经历 
 
-### TCL（ 2016年8月 ~ 至今 ）
+### 北京中软国际教育科技股份有限公司（ 2016年7月 ~ 至今 ）
 
-#### [手机端portal后台](http://portal.fly2tech.com/#!/) 
+#### 智慧物业设备设施平台管理系统 （2016年9月~2016年12月）
 
 一个手机端门户网站，为海外TCL手机用户提供常用地址导航、新闻内容聚合、关键字搜索等服务。
 
 ##### 主要使用技术
 
-- Juice/MyBatis/SpringMVC/Zookeeper/Redis/Python/Maven/Mysql/Nginx/Tomcat/AWS/JSP/JQuery
+- Spring/SpringMVC/MyBatis/Mysql/Tomcat/Maven/JSP/JQuery/bootStrap
 
 ##### 主要工作内容 
 
-- 阅读第三方英文接口文档，根据自身需求进行接口接入前的可用性测试并使用邮件反馈给运营人员。
-- 完成代码开发，接入海外第三方新闻API。
-- 实现新闻内容的去重、敏感词过滤、新闻内容后台审核、置顶等功能。
-- 编写爬虫爬取YouTube、快手、一点资讯等网站视频、图片、新闻等资源，并为爬虫编写测试用例。
-- 跟踪第三方新闻API内容更新频率并及时和运营人员反馈。
+- 阅读第三方需求文档，负责库房物资模块的数据库表设计。
+- 独立完成库房物资模块的代码开发，并完成相应的测试用例编写。
+- 独立完成系统内所有涉及数据导入导出功能，并提取导入导出工具类。
+- 。
 
 ### 北京海德康健信息技术有限公司 （ 2015年5月 ~ 2016年8月 ）
 
